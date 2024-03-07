@@ -1,0 +1,15 @@
+/home/dreik/learn/final_work/final_work/bin/Debug/net8.0/final_work
+/home/dreik/learn/final_work/final_work/bin/Debug/net8.0/final_work.deps.json
+/home/dreik/learn/final_work/final_work/bin/Debug/net8.0/final_work.runtimeconfig.json
+/home/dreik/learn/final_work/final_work/bin/Debug/net8.0/final_work.dll
+/home/dreik/learn/final_work/final_work/bin/Debug/net8.0/final_work.pdb
+/home/dreik/learn/final_work/final_work/obj/Debug/net8.0/final_work.GeneratedMSBuildEditorConfig.editorconfig
+/home/dreik/learn/final_work/final_work/obj/Debug/net8.0/final_work.AssemblyInfoInputs.cache
+/home/dreik/learn/final_work/final_work/obj/Debug/net8.0/final_work.AssemblyInfo.cs
+/home/dreik/learn/final_work/final_work/obj/Debug/net8.0/final_work.csproj.CoreCompileInputs.cache
+/home/dreik/learn/final_work/final_work/obj/Debug/net8.0/final_work.sourcelink.json
+/home/dreik/learn/final_work/final_work/obj/Debug/net8.0/final_work.dll
+/home/dreik/learn/final_work/final_work/obj/Debug/net8.0/refint/final_work.dll
+/home/dreik/learn/final_work/final_work/obj/Debug/net8.0/final_work.pdb
+/home/dreik/learn/final_work/final_work/obj/Debug/net8.0/final_work.genruntimeconfig.cache
+/home/dreik/learn/final_work/final_work/obj/Debug/net8.0/ref/final_work.dll
